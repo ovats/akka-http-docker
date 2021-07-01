@@ -1,2 +1,4 @@
 # akka-http-docker
-Akka Http REST API, docker image generation
+
+Sample application using Akka Http REST API to test docker image generation with plugin `sbt-native-packager`.
+
